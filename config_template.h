@@ -7,7 +7,7 @@
 
 // === ThingsBoard Configuration ===
 // Get your device token from ThingsBoard Device Credentials
-const char* THINGSBOARD_SERVER = "YOUR_SERVER_IP_HERE";  // e.g., "167.99.69.166"
+const char* THINGSBOARD_SERVER = "YOUR_SERVER_IP_HERE";  // e.g., "162.91.62.126"
 const int THINGSBOARD_PORT = 1883;
 const char* TOKEN = "YOUR_DEVICE_TOKEN_HERE";  // From ThingsBoard device credentials
 
