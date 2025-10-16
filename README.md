@@ -275,7 +275,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@afifaudzi](https://github.com/afifaudzi)
 - ThingsBoard: Your TB profile
 
 ## 🙏 Acknowledgments
