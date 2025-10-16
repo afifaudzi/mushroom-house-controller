@@ -1,0 +1,35 @@
+# Sensitive Configuration Files
+config.h
+credentials.h
+secrets.h
+
+# Arduino IDE
+*.elf
+*.hex
+*.bin
+*.map
+
+# Build files
+build/
+*.o
+*.a
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Backup files
+*.bak
+*.backup
+*_backup.*
